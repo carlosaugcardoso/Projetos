@@ -1,2 +1,2 @@
 # Projetos
- Repositorio contendo os códigos
+ Repositório contendo os códigos
